@@ -55,6 +55,6 @@ Eliminar foto
 >Imagen 5 : Eliminar foto 
 Para eliminar una foto, se mantiene seleccionada, y se presiona eliminar
 
-Eliminar foto
+### Eliminar foto
 ![Screenshot_2024-05-16-22-41-06-150_io ionic starter](https://github.com/JuanPabloo890/PhotoGallery/assets/119060037/fbae419f-b553-441c-bcd2-368742e6f3e7)
 
