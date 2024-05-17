@@ -31,7 +31,6 @@
 Ir al Photo
 ```
 Una vez dentro, podemos tomar fotos
-### Inserte foto 
 >Imagen 1 : Menu de foto
 ![Screenshot_2024-05-16-22-40-15-542_io ionic starter](https://github.com/JuanPabloo890/PhotoGallery/assets/119060037/df6ff4d9-6d53-429a-9404-29e11c1b494f)
 
@@ -47,12 +46,6 @@ Se almacenan las fotos tomadas.
 ```
 Eliminar foto
 ```
-### Inserte foto chingona
->Imagen 3 : Foto guardada.
-
->Imagen 4 : Mantener presionado
-
->Imagen 5 : Eliminar foto 
 Para eliminar una foto, se mantiene seleccionada, y se presiona eliminar
 
 ### Eliminar foto
